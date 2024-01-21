@@ -5,6 +5,7 @@
  */
 
 // @lc code=start
+package leetcode
 func removeDuplicates(nums []int) int {
 	n := len(nums)
 

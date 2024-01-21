@@ -5,6 +5,8 @@
  */
 
 // @lc code=start
+
+package leetcode
 func setZeroes(matrix [][]int)  {
     var row int = len(matrix)
 	var col int = len(matrix[0])
